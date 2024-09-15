@@ -12,3 +12,10 @@ ZCZC W01 90 L31 VirtualBox: Install Debian
 ZCZC W01 100 L02 04/09 class
 ZCZC W01 15 L27 SSH, key-gen: Configuring SSH public key
 ZCZC W01 80 L11 Assignment #01: Create LINKS/, added index.md, added myupdate.txt
+ZCZC W02 100 L02 09/09 class
+ZCZC W02 100 L02 11/09 class
+ZCZC W02 8 L05 Quiz
+ZCZC W02 15 L32 YouTube: watching Computerphile video on RSA
+ZCZC W02 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W02 90 L09 Week 2 assignment
