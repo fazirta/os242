@@ -12,3 +12,5 @@ permalink: LINKS/
   Discover how weaknesses in RSA key generation can be exploited using Fermat's factorization algorithm to reveal private keys and compromise encryption.
 * [Basic File Encryption with GPG key pairs!](https://www.youtube.com/watch?v=DMGIlj7u7Eo){:target="_blank"} ---
   Learn how to use GPG to generate key pairs, and encrypt and decrypt files on Linux for improved data security.
+* [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM){:target="_blank"} ---
+  Explore how file formats and systems organize data and manage metadata for efficient storage.
