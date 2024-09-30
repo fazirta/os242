@@ -14,3 +14,5 @@ permalink: LINKS/
   Learn how to use GPG to generate key pairs, and encrypt and decrypt files on Linux for improved data security.
 * [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM){:target="_blank"} ---
   Explore how file formats and systems organize data and manage metadata for efficient storage.
+* [Simple Shared Memory in C (mmap)](https://www.youtube.com/watch?v=rPV6b8BUwxM){:target="_blank"} ---
+  This video shows how to use mmap for shared memory, enabling communication between parent and child processes in Unix-like systems.
