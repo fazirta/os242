@@ -16,3 +16,5 @@ permalink: LINKS/
   Explore how file formats and systems organize data and manage metadata for efficient storage.
 * [Simple Shared Memory in C (mmap)](https://www.youtube.com/watch?v=rPV6b8BUwxM){:target="_blank"} ---
   This video shows how to use mmap for shared memory, enabling communication between parent and child processes in Unix-like systems.
+* [But, what is Virtual Memory?](https://www.youtube.com/watch?v=A9WLYbE0p-I){:target="_blank"} ---
+  Dive into virtual memory, understanding its core principles, implementations, and optimization techniques.
