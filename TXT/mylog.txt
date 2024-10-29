@@ -59,3 +59,7 @@ ZCZC W05 20 L13 Assignment #03
 ZCZC W05 60 L82 Reading Book (paper or online)
 ZCZC W05 20 L14 Assignment #04
 ZCZC W05 240 L15 Assignment #05
+ZCZC W06 5 L43 Review links
+ZCZC W06 30 L09 Assignment week 6
+ZCZC W06 60 L05 Week 06 popquiz
+ZCZC W06 4 L05 Week 06 quiz
