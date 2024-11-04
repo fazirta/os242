@@ -63,3 +63,9 @@ ZCZC W06 5 L43 Review links
 ZCZC W06 30 L09 Assignment week 6
 ZCZC W06 60 L05 Week 06 popquiz
 ZCZC W06 4 L05 Week 06 quiz
+ZCZC W07 100 L02 OS Class
+ZCZC W07 40 L06 Reading Assignment
+ZCZC W07 100 L02 OS Class
+ZCZC W07 05 L05 Quiz
+ZCZC W07 60 L09 Weekly Assignments
+ZCZC W07 10 L41 TXT/mylog.txt related
