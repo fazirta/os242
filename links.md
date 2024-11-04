@@ -20,3 +20,5 @@ permalink: LINKS/
   Dive into virtual memory, understanding its core principles, implementations, and optimization techniques.
 * [Concurrency: Processes, Threads, and Thread Pools](https://medium.com/@ehisjude420/concurrency-processes-threads-and-thread-pools-31ea6be9a79b){:target="_blank"} ---
   This article by Iribhogbe Ehis explores concurrency concepts using a restaurant analogy. It discusses managing multiple tasks, the roles of processes and threads, challenges like task starvation, and solutions such as message queues and locks for efficient task management.
+* [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY){:target="_blank"} ---
+  A video explaining the concept of deadlock in operating systems using real-life examples and necessary conditions for deadlock to occur.
