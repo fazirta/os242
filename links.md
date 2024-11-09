@@ -22,3 +22,5 @@ permalink: LINKS/
   This article by Iribhogbe Ehis explores concurrency concepts using a restaurant analogy. It discusses managing multiple tasks, the roles of processes and threads, challenges like task starvation, and solutions such as message queues and locks for efficient task management.
 * [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY){:target="_blank"} ---
   A video explaining the concept of deadlock in operating systems using real-life examples and necessary conditions for deadlock to occur.
+* [Linux Kernel Scheduler](https://www.youtube.com/watch?v=Jl_0W4o0xao){:target="_blank"} ---
+  Dive into the Linux kernel scheduler, exploring its design and functionality, including the Completely Fair Scheduler (CFS) and how it manages process scheduling for efficient CPU time allocation.
