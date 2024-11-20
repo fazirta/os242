@@ -24,3 +24,5 @@ permalink: LINKS/
   A video explaining the concept of deadlock in operating systems using real-life examples and necessary conditions for deadlock to occur.
 * [Linux Kernel Scheduler](https://www.youtube.com/watch?v=Jl_0W4o0xao){:target="_blank"} ---
   Dive into the Linux kernel scheduler, exploring its design and functionality, including the Completely Fair Scheduler (CFS) and how it manages process scheduling for efficient CPU time allocation.
+* [How Does Linux Boot Process Work?](https://www.youtube.com/watch?v=XpFsMB6FoOs){:target="_blank"} ---  
+  Discover what happens behind the scenes when you boot up Linux, from BIOS/UEFI checks to the kernel and Systemd initialization.
