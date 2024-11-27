@@ -26,3 +26,5 @@ permalink: LINKS/
   Dive into the Linux kernel scheduler, exploring its design and functionality, including the Completely Fair Scheduler (CFS) and how it manages process scheduling for efficient CPU time allocation.
 * [How Does Linux Boot Process Work?](https://www.youtube.com/watch?v=XpFsMB6FoOs){:target="_blank"} ---  
   Discover what happens behind the scenes when you boot up Linux, from BIOS/UEFI checks to the kernel and Systemd initialization.
+* [Difference between Programmed and Interrupt Initiated I/O](https://www.geeksforgeeks.org/difference-between-programmed-and-interrupt-initiated-i-o/){:target="_blank"} ---
+  Learn about the two major modes of I/O operations: Programmed I/O, where the CPU continuously monitors I/O devices, and Interrupt Initiated I/O, which allows the CPU to multitask efficiently while waiting for I/O operations to complete.
