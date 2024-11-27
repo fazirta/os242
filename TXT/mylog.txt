@@ -90,3 +90,19 @@ ZCZC W09 420 L09 Weekly Assignments
 ZCZC W09 240 GSGS related
 ZCZC W09 60 L40 TXT/ general
 ZCZC W09 40 L03 GitHub related
+ZCZC W10 100 L02 OS Class
+ZCZC W10 40 L18 Update links.md with new resources
+ZCZC W10 120 L05 Weekly Assignments: Week 10
+ZCZC W10 30 L22 Reviewing Linux CLI commands (grep, find, sed)
+ZCZC W10 90 L18 Reading OS related articles and papers
+ZCZC W10 30 L03 GitHub: commit, push, pull operations
+ZCZC W10 15 L41 Update mylog.txt for Week 10 progress
+ZCZC W10 80 L05 Pop Quiz prep and review
+ZCZC W10 10 L26 GnuPG, key-gen, encrypt/decrypt for class assignment
+ZCZC W10 15 L43 Review and update myrank.txt
+ZCZC W10 20 L04 GitHub Pages related updates
+ZCZC W10 60 L64 Helping friends with OS-related issues
+ZCZC W10 25 L12 Assignment #10 preparation
+ZCZC W10 20 L22 Linux CLI scripting and automation
+ZCZC W10 90 L09 Weekly Assignment: Week 10
+ZCZC W10 20 L40 TXT/ related updates and documentation
